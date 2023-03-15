@@ -18,6 +18,6 @@ The creator of the assessed project is a key stakeholder in the success of the s
 The users of the assessed project will have a stake in whether we do a reliable job in running a security analysis because the users of the assessed project will have personal information linked to the project’s database. Ensuring a closed and secure system will minimize any vulnerabilities or possible exploitations to gain access to the project user’s data. An unsuccessful measure could mean a difference in the privacy and protection of the users for the project, putting the users at risk for serious threats and harm. A cyber attacker could use the information of the project’s users to log into accounts and potentially cause serious damage to the user’s systems or privacy. By having a direct link to the project through personal information, the project's users hold a stake within our security team project.
 
 
-### Breakdown of our github Repo
+### Breakdown of our Github Repo
 
 We broke down each project we began working on into their own induvial folder will each document we created for them. This includes threat model’s, Security Reports, and decomposition of the project created by our team to run teaming on. Projects that we began to work with that eventually fell out are still included to help document work that we done along the way. Two projects that are currently being worked on by other teams are included. Juno and Real Estate CRM are two teams that will be contacting the team once their projects are hosted to run the automated testing.
