@@ -21,3 +21,6 @@ The users of the assessed project will have a stake in whether we do a reliable 
 ### Breakdown of our Github Repo
 
 We broke down each project we began working on into their own induvial folder will each document we created for them. This includes threat model’s, Security Reports, and decomposition of the project created by our team to run teaming on. Projects that we began to work with that eventually fell out are still included to help document work that we done along the way. Two projects that are currently being worked on by other teams are included. Juno and Real Estate CRM are two teams that will be contacting the team once their projects are hosted to run the automated testing.
+
+The project created in house by Ian Delgado can be found at this link 
+http://ezmealzauth.azurewebsites.net/
