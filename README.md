@@ -1,4 +1,6 @@
 # DamSecurity
+## Members: Sunwoo Kim, Billy Endicott, Ian J Delgado, Alanna Croysdale
+
 
 ### Success Measures
 
@@ -24,3 +26,6 @@ We broke down each project we began working on into their own induvial folder wi
 
 The project created in house by Ian Delgado can be found at this link 
 http://ezmealzauth.azurewebsites.net/
+
+### Why are we better?
+DamSecurity strives to provide the best service in security assessments around. This company has been around so long that each other the companies have gone out of business(joke about being the only security team).
