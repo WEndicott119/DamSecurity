@@ -1,6 +1,10 @@
 # DamSecurity
 ## Members: Sunwoo Kim, Billy Endicott, Ian J Delgado, Alanna Croysdale
 
+### What are we doing?
+Cybersecurity assessments are an all-encompassing task to review a project. These assessments range from ensuring a company’s physical network infrastructure is secure to discovering any vulnerabilities in remote attacks. Instead of creating a new technology that will be faster or more efficient, our primary goal is to ensure safety for businesses and the public. The threat of competitors causes companies to release technology as fast as possible however this speed comes with the risk of vulnerabilities. Our project aims to discover and patch any vulnerabilities in cybersecurity assessments to safeguard our clients.
+
+Security assessments aim to prevent unauthorized access to data and data leaks, thus protecting the client from the inconveniences of a breach, including liability issues and data loss. In addition, it would save their clients from having their data stolen and, in cases where their clients reused passwords, used to gain access to users’ other accounts.  Furthermore, It will save users time needed to change passwords due to a breach. Finally, it will save the client time and money because the project’s security would not have to be fixed when a breach occurs.
 
 ### Success Measures
 
