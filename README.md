@@ -4,10 +4,10 @@
 
 With the recent creation of competition projects, the true scope of a completed project is still a mystery. However, the end goal we have decided for ourselves is to generate comprehensive cybersecurity reports on numerous projects. These reports will include how we conducted our assessment, the vulnerabilities found, and our recommendations for fixing these weaknesses. Most of our work will occur on finding any possible vulnerabilities with the projects we assess. Then, produce various parts such as threat models and in-depth vulnerability research. Finally, the final report will pass through a concluding judgment with multiple criteria.
 
-The judging criteria regarding the security team competition are as follows:
-•	Thoroughness in identifying vulnerabilities.
-•	Clarity and completeness in consultation documents
-•	Communications success in helping a functional team or past project fixing vulnerabilities.
+### The judging criteria regarding the security team competition are as follows:
+#### •	Thoroughness in identifying vulnerabilities.
+#### •	Clarity and completeness in consultation documents
+#### •	Communications success in helping a functional team or past project fixing vulnerabilities.
 
 Ensuring our reports are extensive and contain all relevant information, as stated above, will make this project successful.
 
