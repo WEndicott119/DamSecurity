@@ -1,13 +1,19 @@
 # DamSecurity
+## Members: Sunwoo Kim, Billy Endicott, Ian J Delgado, Alanna Croysdale
+
+### What are we doing?
+Cybersecurity assessments are an all-encompassing task to review a project. These assessments range from ensuring a company’s physical network infrastructure is secure to discovering any vulnerabilities in remote attacks. Instead of creating a new technology that will be faster or more efficient, our primary goal is to ensure safety for businesses and the public. The threat of competitors causes companies to release technology as fast as possible however this speed comes with the risk of vulnerabilities. Our project aims to discover and patch any vulnerabilities in cybersecurity assessments to safeguard our clients.
+
+Security assessments aim to prevent unauthorized access to data and data leaks, thus protecting the client from the inconveniences of a breach, including liability issues and data loss. In addition, it would save their clients from having their data stolen and, in cases where their clients reused passwords, used to gain access to users’ other accounts.  Furthermore, It will save users time needed to change passwords due to a breach. Finally, it will save the client time and money because the project’s security would not have to be fixed when a breach occurs.
 
 ### Success Measures
 
 With the recent creation of competition projects, the true scope of a completed project is still a mystery. However, the end goal we have decided for ourselves is to generate comprehensive cybersecurity reports on numerous projects. These reports will include how we conducted our assessment, the vulnerabilities found, and our recommendations for fixing these weaknesses. Most of our work will occur on finding any possible vulnerabilities with the projects we assess. Then, produce various parts such as threat models and in-depth vulnerability research. Finally, the final report will pass through a concluding judgment with multiple criteria.
 
-The judging criteria regarding the security team competition are as follows:
-•	Thoroughness in identifying vulnerabilities.
-•	Clarity and completeness in consultation documents
-•	Communications success in helping a functional team or past project fixing vulnerabilities.
+### The judging criteria regarding the security team competition are as follows:
+#### •	Thoroughness in identifying vulnerabilities.
+#### •	Clarity and completeness in consultation documents
+#### •	Communications success in helping a functional team or past project fixing vulnerabilities.
 
 Ensuring our reports are extensive and contain all relevant information, as stated above, will make this project successful.
 
@@ -24,3 +30,35 @@ We broke down each project we began working on into their own induvial folder wi
 
 The project created in house by Ian Delgado can be found at this link 
 http://ezmealzauth.azurewebsites.net/
+
+### Why are we better?
+DamSecurity strives to provide the best service in security assessments around. This company has been around so long that each other the companies have gone out of business(joke about being the only security team).
+
+
+## Steps for next group doing a similar project
+
+### Framework
+
+Understanding what frame your group will use might be the most important first step. You won't be limited to just one since the idea is that you'll perform assessments on multiple projects. The goal would be to understand what a framework is what it represents. some of the most popular frameworks to work with include HIPAA, NIST, GDPR, PCI-DSS, and MITRE.
+
+Make sure to understand and be prepared to refence your framework guildeline multiple times throughout the project. Here is an explaination of a high level overview of cybersecurity frameworks.
+
+Cybersecurity frameworks are structured approaches that organizations use to manage and reduce cybersecurity risks. The goals of cybersecurity frameworks include:
+
+1. Providing a structured approach: Cybersecurity frameworks provide a structured approach to managing cybersecurity risks. They provide a common language and methodology for managing cybersecurity risks, which helps organizations to effectively identify, assess, and manage cybersecurity risks.
+
+2. Enhancing cybersecurity posture: The goal of cybersecurity frameworks is to enhance an organization's cybersecurity posture. This involves reducing the likelihood and impact of cybersecurity incidents, as well as improving the organization's ability to detect and respond to cybersecurity incidents.
+
+3. Compliance: Cybersecurity frameworks are designed to help organizations comply with relevant cybersecurity regulations, standards, and guidelines. Compliance with these regulations and guidelines helps organizations to avoid legal and financial penalties, as well as reputational damage.
+
+4. Aligning cybersecurity with business objectives: Cybersecurity frameworks aim to align cybersecurity with business objectives. This involves ensuring that cybersecurity measures are aligned with the organization's strategic goals and that they support the organization's overall mission.
+
+5. Continuous improvement: Cybersecurity frameworks are designed to support continuous improvement of an organization's cybersecurity posture. This involves regularly reviewing and updating the cybersecurity measures in place, as well as monitoring for new cybersecurity risks and emerging threats.
+
+### Network and ask for advice
+
+During the duration of the project our team reached out to multiple cybersecurity professionals to get advice and ask for their point of view of how they approach things. Each one of our team members reached out and connected to at least one person. This can be on twitter, LinkedIn, OSUSOC, or security club members. Reach out to anyone and everyone!
+
+### Hands on experience 
+
+This could be anyway you feel comfortable. HackTheBox, TryHackMe, PortSwingger, or even just downloading tools and practicing. Figuring out 1 or 2 automated tools that run multiple tests on an application or network is a great way to know what you're end goal is going to be. Practice scanning and using the tools on scanme.nmap.org and other proxy web apps.
