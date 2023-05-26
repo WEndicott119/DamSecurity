@@ -1,6 +1,19 @@
 # DamSecurity
 ## Members: Sunwoo Kim, Billy Endicott, Ian J Delgado, Alanna Croysdale
 
+#### Ian J Delgado
+EzMealz Technical lead: Worked towards login authentication and subscription service improvement. Assessing all interactions with user and database for utmost security.
+
+#### Alanna Croysdale
+EZ Meals Research Lead: Created threat modeling and analysis, research of web application security and managed documentation. 
+
+#### Billy Endicott
+Crafts Team technical lead: Conducted all required testing and threat modeling. Group expert regarding all cyber security information. 
+
+#### Sunwoo Kim
+Crafts Team Research Lead: Worked with other project group, learned requirements for OSU security policies and industry standard documentation.
+
+
 ### What are we doing?
 Cybersecurity assessments are an all-encompassing task to review a project. These assessments range from ensuring a company’s physical network infrastructure is secure to discovering any vulnerabilities in remote attacks. Instead of creating a new technology that will be faster or more efficient, our primary goal is to ensure safety for businesses and the public. The threat of competitors causes companies to release technology as fast as possible however this speed comes with the risk of vulnerabilities. Our project aims to discover and patch any vulnerabilities in cybersecurity assessments to safeguard our clients.
 
