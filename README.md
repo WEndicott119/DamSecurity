@@ -75,3 +75,11 @@ During the duration of the project our team reached out to multiple cybersecurit
 ### Hands on experience 
 
 This could be anyway you feel comfortable. HackTheBox, TryHackMe, PortSwingger, or even just downloading tools and practicing. Figuring out 1 or 2 automated tools that run multiple tests on an application or network is a great way to know what you're end goal is going to be. Practice scanning and using the tools on scanme.nmap.org and other proxy web apps.
+
+### Potential projects or challenges 
+
+-Building your own SIEM stack to monitor and analyze security events. This is a project that has many examples and can be built in different ways. the team can build their preference of a stack that can be tested and used. They can then write their own SOP(standard operating procedure) on how to use their SIEM and the different capabilities.
+
+This link has an example of a SIEM that is being built 
+https://socfortress.medium.com/build-your-own-siem-stack-with-open-source-tools-series-39da0f2d412a
+
