@@ -50,6 +50,10 @@ DamSecurity strives to provide the best service in security assessments around. 
 
 ## Steps for next group doing a similar project
 
+### Network and ask for advice
+
+During the duration of the project our team reached out to multiple cybersecurity professionals to get advice and ask for their point of view of how they approach things. Each one of our team members reached out and connected to at least one person. This can be on twitter, LinkedIn, OSUSOC, or security club members. Reach out to anyone and everyone!
+
 ### Framework
 
 Understanding what frame your group will use might be the most important first step. You won't be limited to just one since the idea is that you'll perform assessments on multiple projects. The goal would be to understand what a framework is what it represents. some of the most popular frameworks to work with include HIPAA, NIST, GDPR, PCI-DSS, and MITRE.
@@ -68,9 +72,6 @@ Cybersecurity frameworks are structured approaches that organizations use to man
 
 5. Continuous improvement: Cybersecurity frameworks are designed to support continuous improvement of an organization's cybersecurity posture. This involves regularly reviewing and updating the cybersecurity measures in place, as well as monitoring for new cybersecurity risks and emerging threats.
 
-### Network and ask for advice
-
-During the duration of the project our team reached out to multiple cybersecurity professionals to get advice and ask for their point of view of how they approach things. Each one of our team members reached out and connected to at least one person. This can be on twitter, LinkedIn, OSUSOC, or security club members. Reach out to anyone and everyone!
 
 ### Hands on experience 
 
