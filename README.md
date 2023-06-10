@@ -2,16 +2,16 @@
 ## Members: Sunwoo Kim, Billy Endicott, Ian J Delgado, Alanna Croysdale
 
 #### Ian J Delgado
-EzMealz Technical lead: Worked towards login authentication and subscription service improvement. Assessing all interactions with user and database for utmost security.
+EzMealz Technical lead: Worked towards login authentication and subscription service improvement. Assessing all interactions with users and databases for utmost security.
 
 #### Alanna Croysdale
-EZ Meals Research Lead: Created threat modeling and analysis, research of web application security and managed documentation. 
+EZ Meals Research Lead: Created threat modeling and analysis, research of web application security, and managed documentation. 
 
 #### Billy Endicott
 Crafts Team technical lead: Conducted all required testing and threat modeling. Group expert regarding all cyber security information. 
 
 #### Sunwoo Kim
-Crafts Team Research Lead: Worked with other project group, learned requirements for OSU security policies and industry standard documentation.
+Crafts Team Research Lead: Worked with other project groups, learned requirements for OSU security policies and industry-standard documentation.
 
 
 ### What are we doing?
@@ -37,28 +37,28 @@ The creator of the assessed project is a key stakeholder in the success of the s
 The users of the assessed project will have a stake in whether we do a reliable job in running a security analysis because the users of the assessed project will have personal information linked to the project’s database. Ensuring a closed and secure system will minimize any vulnerabilities or possible exploitations to gain access to the project user’s data. An unsuccessful measure could mean a difference in the privacy and protection of the users for the project, putting the users at risk for serious threats and harm. A cyber attacker could use the information of the project’s users to log into accounts and potentially cause serious damage to the user’s systems or privacy. By having a direct link to the project through personal information, the project's users hold a stake within our security team project.
 
 
-### Breakdown of our Github Repo
+### Breakdown of our GitHub Repo
 
-We broke down each project we began working on into their own induvial folder will each document we created for them. This includes threat model’s, Security Reports, and decomposition of the project created by our team to run teaming on. Projects that we began to work with that eventually fell out are still included to help document work that we done along the way. Two projects that are currently being worked on by other teams are included. Juno and Real Estate CRM are two teams that will be contacting the team once their projects are hosted to run the automated testing.
+We broke down each project we began working on into its induvial folder will each document we created for them. This includes threat models, Security Reports, and decomposition of the project created by our team to run teaming on. Projects that we began to work with that eventually fell out are still included to help document the work that we have done along the way. Two projects that are currently being worked on by other teams are included. Juno and Real Estate CRM are two teams that will be contacting the team once their projects are hosted to run the automated testing.
 
-The project created in house by Ian Delgado can be found at this link 
+The project created in-house by Ian Delgado can be found at this link 
 http://ezmealzauth.azurewebsites.net/
 
 ### Why are we better?
-DamSecurity strives to provide the best service in security assessments around. This company has been around so long that each other the companies have gone out of business(joke about being the only security team).
+DamSecurity strives to provide the best service in security assessments around. This company has been around so long that each other the companies has gone out of business(joke about being the only security team).
 
 
-## Steps for next group doing a similar project
+## Steps for the next group doing a similar project
 
 ### Network and ask for advice
 
-During the duration of the project our team reached out to multiple cybersecurity professionals to get advice and ask for their point of view of how they approach things. Each one of our team members reached out and connected to at least one person. This can be on twitter, LinkedIn, OSUSOC, or security club members. Reach out to anyone and everyone!
+During the duration of the project, our team reached out to multiple cybersecurity professionals to get advice and ask for their points of view om how they approach things. Each one of our team members reached out and connected to at least one person. This can be on Twitter, LinkedIn, OSUSOC, or with security club members. Reach out to anyone and everyone!
 
 ### Framework
 
-Understanding what frame your group will use might be the most important first step. You won't be limited to just one since the idea is that you'll perform assessments on multiple projects. The goal would be to understand what a framework is what it represents. some of the most popular frameworks to work with include HIPAA, NIST, GDPR, PCI-DSS, and MITRE.
+Understanding what frame your group will use might be the most important first step. You won't be limited to just one since the idea is that you'll perform assessments on multiple projects. The goal would be to understand what a framework is and what it represents. some of the most popular frameworks to work with include HIPAA, NIST, GDPR, PCI-DSS, and MITRE.
 
-Make sure to understand and be prepared to refence your framework guildeline multiple times throughout the project. Here is an explaination of a high level overview of cybersecurity frameworks.
+Make sure to understand and be prepared to reference your framework guideline multiple times throughout the project. Here is an explanation of a high-level overview of cybersecurity frameworks.
 
 Cybersecurity frameworks are structured approaches that organizations use to manage and reduce cybersecurity risks. The goals of cybersecurity frameworks include:
 
@@ -70,12 +70,12 @@ Cybersecurity frameworks are structured approaches that organizations use to man
 
 4. Aligning cybersecurity with business objectives: Cybersecurity frameworks aim to align cybersecurity with business objectives. This involves ensuring that cybersecurity measures are aligned with the organization's strategic goals and that they support the organization's overall mission.
 
-5. Continuous improvement: Cybersecurity frameworks are designed to support continuous improvement of an organization's cybersecurity posture. This involves regularly reviewing and updating the cybersecurity measures in place, as well as monitoring for new cybersecurity risks and emerging threats.
+5. Continuous improvement: Cybersecurity frameworks are designed to support the continuous improvement of an organization's cybersecurity posture. This involves regularly reviewing and updating the cybersecurity measures in place, as well as monitoring for new cybersecurity risks and emerging threats.
 
 
-### Hands on experience 
+### Hands-on experience 
 
-This could be anyway you feel comfortable. HackTheBox, TryHackMe, PortSwingger, or even just downloading tools and practicing. Figuring out 1 or 2 automated tools that run multiple tests on an application or network is a great way to know what you're end goal is going to be. Practice scanning and using the tools on scanme.nmap.org and other proxy web apps.
+This could be any way you feel comfortable. HackTheBox, TryHackMe, PortSwingger, or even just downloading tools and practicing. Figuring out 1 or 2 automated tools that run multiple tests on an application or network is a great way to know what you're end goal is going to be. Practice scanning and using the tools on scanme.nmap.org and other proxy web apps.
 
 ### Potential projects or challenges 
 
